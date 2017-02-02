@@ -1,0 +1,54 @@
+main {
+  padding-top: 100px;
+}
+
+main .row {
+  margin-bottom: 20px;
+}
+
+.box {
+  height: 200px;
+  text-align: center;
+  padding-top: 30px;
+}
+
+.black {
+  background-color: black;
+  color: white;
+}
+
+.green {
+  background-color: green;
+}
+
+.orange {
+  background-color: orange;
+}
+
+.blue {
+  background-color: blue;
+}
+
+.purple {
+  background-color: purple;
+}
+
+.brown {
+  background-color: brown;
+}
+
+.navy {
+  background-color: navy;
+}
+
+.pink {
+  background-color: pink;
+}
+
+.red {
+  background-color: red;
+}
+
+.yellow {
+  background-color: yellow;
+}
